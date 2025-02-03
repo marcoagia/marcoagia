@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm from México 🇲🇽<br><br>- 🔭 I’m working as Full Stack developer on Finexitus<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I create software to help myself and others on the daily tasks</p>
+<p align="left">I'm from México 🇲🇽<br><br>- 🔭 I’m working as Full Stack developer on Finexitus<br>- 📚 I'm currently reinforcing my understanding of statistics and mathematics for AI and ML<br>- ⚡ In my free time I create software to help myself and others on the daily tasks</p>
 
 ###
 
