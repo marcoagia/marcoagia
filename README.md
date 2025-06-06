@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm from México 🇲🇽<br><br>- 🔭 I’m working as Full Stack developer on Finexitus<br>- 📚 I'm currently reinforcing my understanding of statistics and mathematics for AI and ML<br>- ⚡ In my free time I create software to help myself and others on the daily tasks</p>
+I am a Full Stack Developer and Data Scientist with professional experience since 2019. My daily toolkit includes TypeScript, Go, and Python. Outside of work, I enjoy exploring topics on human behavior and philosophy, hitting the gym in the mornings, and embracing the challenge of learning something new every day.
 
 ###
 
